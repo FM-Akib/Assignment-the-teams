@@ -1,2 +1,2 @@
 ## Live 
-[here]('https://fm-akib.github.io/Assignment-the-teams/')
+[here](https://fm-akib.github.io/Assignment-the-teams/)
